@@ -8,9 +8,9 @@ Fork本项目，并在你的Travis账户上设置变量和定时。
 `PHONE_NUM`: 你的联通手机号码
 
 ## 设置定时'Cron Jobs'
-间隔(`INTERVAL`): `Daily `
+间隔`INTERVAL`: `Daily `
 
-选项(`option`): `Do not run if there has been a build in the last 24h`
+选项`option`: `Do not run if there has been a build in the last 24h`
 
 致谢：
 
