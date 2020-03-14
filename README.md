@@ -14,6 +14,11 @@ Fork本项目，并在你的Travis项目上设置变量和定时。
 
 选项`option`: `Do not run if there has been a build in the last 24h`
 
+## 最后,执行部署
+
+Enjoy~
+
+<hr>
 # 致谢：
 
 [利用宝塔面板搭建【青岛流量抽奖网站】](https://onstart.top/%E5%BB%BA%E7%AB%99/41.html)
