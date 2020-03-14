@@ -1,5 +1,5 @@
 # 这是什么？
-青岛流量挂机抽奖的另一种实现方式，源码来自[利用宝塔面板搭建【青岛流量抽奖网站】](https://onstart.top/%E5%BB%BA%E7%AB%99/41.html)，这里只是使用了TravisCI来触发其核心代码'run.php'。
+青岛流量挂机抽奖的另一种实现方式，源码来自[利用宝塔面板搭建【青岛流量抽奖网站】](https://onstart.top/%E5%BB%BA%E7%AB%99/41.html)，这里只是使用了TravisCI来触发其核心代码`run.php`。
 
 # 如何食用？
 Fork本项目，并在你的Travis账户上设置变量和定时。
