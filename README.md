@@ -7,7 +7,7 @@ Fork本项目，并在你的Travis项目上设置变量和定时。
 ## 设置变量
 `PHONE_NUM`: 你的联通手机号码
 
-## 设置定时'Cron Jobs'
+## 设置定时`Cron Jobs`
 分支`BRANCH`: `master`
 
 间隔`INTERVAL`: `Daily `
