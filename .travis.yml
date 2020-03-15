@@ -2,7 +2,11 @@ language: php
 php: '5.6'
 script:
   - sed -i "s/PHONE_NUM/${PHONE_NUM}/g" phone_num.txt || exit 1
+  - sed -i "s/API_KEY/${API_KEY}/g" run.php || exit 1
+  - sed -i "s/SEC_KEY/${SEC_KEY}/g" run.php || exit 1
   - php run.php
 env:
   global:
     - secure: $PHONE_NUM
+    - secure: $API_KEY
+    - secure: $SEC_KEY
