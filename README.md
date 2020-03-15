@@ -4,7 +4,7 @@
 # 如何食用？
 Fork本项目，并在你的Travis项目上设置变量和定时,注意，需注册[百度文字识别应用](https://cloud.baidu.com/product/ocr)。
 
-![](https://arn0-1251735137.cos.ap-guangzhou.myqcloud.com/static_files/HexoSakura.webp)
+![Hbf1aecb05d334054a4467b7cecf699f3t.png](https://i.loli.net/2020/03/15/rcLIJ8POmVKjDB5.png)
 > 图片来自[利用宝塔面板搭建【青岛流量抽奖网站】](https://onstart.top/%E5%BB%BA%E7%AB%99/41.html)
 
 ## 设置变量
