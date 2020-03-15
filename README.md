@@ -13,7 +13,9 @@ Fork本项目，并在你的Travis项目上设置变量和定时,注意，需注
 
 ## 设置变量
 `PHONE_NUM`: 你的联通手机号码
+
 `API_KEY`: 百度文字识别API KEY
+
 `SEC_KEY`: 百度文字识别Secret Key
 
 ## 设置定时`Cron Jobs`
